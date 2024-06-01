@@ -21,9 +21,9 @@ I'm always eager to learn and grow as a developer. Currently, I'm diving deeper 
 Check out my repositories to see what I'm working on. I believe in learning by doing, so you’ll find various projects that reflect my progress and interests in mobile development.
 
 ## 🌐 Connect with Me
-- **GitHub:** (https://github.com/IsarahTarila)
-- **YouTube:** (https://youtube.com/@tarilaisarah6209?si=SsHR_mZ2QPpOHn6V)
-- **LinkedIn:** (https://www.linkedin.com/in/tarila-isarah-534991287/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/IsarahTarila)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tarilaisarah6209?si=SsHR_mZ2QPpOHn6V)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarila-isarah-534991287/)
 
 Feel free to follow my journey and connect with me. Let's learn and build amazing things together!
 
